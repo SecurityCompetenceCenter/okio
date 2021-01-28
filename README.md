@@ -1,4 +1,4 @@
-Okio
+Okio SCC
 ====
 
 See the [project website][okio] for documentation and APIs.
